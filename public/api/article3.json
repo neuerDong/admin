@@ -1,0 +1,17 @@
+{
+  "title": "Redux 入门教程（一）：基本用法",
+  "content": "阅读本文，你只需要懂 React。如果还懂 Flux，就更好了，会比较容易理解一些概念，但不是必需的。",
+  "time": "2017.07.26",
+  "comments": [
+    {
+      "name": "fe",
+      "email": "1244124515@gm",
+      "content": "评论"
+    },
+    {
+      "name": "36",
+      "email": "36@36kr.com",
+      "content": "评论内容"
+    }
+  ]
+}
